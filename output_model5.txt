@@ -1,0 +1,72 @@
+rv_score=polar*1.5*(1+subject)+3.5
+
+business id 4JNXUYY8wbaaDmk3BPzlWw
+Average Processed Review Score: 4.2863289588010725
+Sentimental Analyzed Review Accuracy: 0.43126867698994836
+Random Baseline Accuracy: 0.08883455582722087
+
+
+
+business id RESDUcs7fIiihp38-d6_6g
+Average Processed Review Score: 4.029044940485878
+Sentimental Analyzed Review Accuracy: 0.3262917499286326
+Random Baseline Accuracy: 0.09077933200114188
+
+
+
+business id K7lWdNUhCbcnEvI0NhGewg
+Average Processed Review Score: 4.048192411465681
+Sentimental Analyzed Review Accuracy: 0.3550663753990926
+Random Baseline Accuracy: 0.09342967568475886
+
+
+
+business id cYwJA2A6I12KNkm2rtXd5g
+Average Processed Review Score: 4.192722914955867
+Sentimental Analyzed Review Accuracy: 0.38399412628487517
+Random Baseline Accuracy: 0.09122613803230543
+
+
+
+business id DkYS3arLOhA8si5uUEmHOw
+Average Processed Review Score: 4.129186528262335
+Sentimental Analyzed Review Accuracy: 0.3728952772073922
+Random Baseline Accuracy: 0.09301848049281314
+
+
+
+business id f4x1YBxkLrZg652xt2KR5g
+Average Processed Review Score: 3.974275008994639
+Sentimental Analyzed Review Accuracy: 0.3640552995391705
+Random Baseline Accuracy: 0.09300377042312526
+
+
+
+business id 2weQS-RnoOBhb1KsHKyoSQ
+Average Processed Review Score: 4.054270675404767
+Sentimental Analyzed Review Accuracy: 0.3464410154305625
+Random Baseline Accuracy: 0.0935788949726232
+
+
+
+business id KskYqH1Bi7Z_61pH6Om8pg
+Average Processed Review Score: 4.159525542067312
+Sentimental Analyzed Review Accuracy: 0.35687263556116017
+Random Baseline Accuracy: 0.0905422446406053
+
+
+
+business id eoHdUeQDNgQ6WYEnP2aiRw
+Average Processed Review Score: 3.9486932052489885
+Sentimental Analyzed Review Accuracy: 0.27665558680644337
+Random Baseline Accuracy: 0.0930708258757351
+
+
+
+business id ujHiaprwCQ5ewziu0Vi9rw
+Average Processed Review Score: 3.980432386484078
+Sentimental Analyzed Review Accuracy: 0.3248175182481752
+Random Baseline Accuracy: 0.09254431699687174
+
+
+
